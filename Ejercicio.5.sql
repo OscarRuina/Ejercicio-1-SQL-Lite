@@ -1,0 +1,1 @@
+insert into curso (id, name, description, turn, cupo) values (101,'Prueba','Prueba insertar id repetido','Tarde',30 )

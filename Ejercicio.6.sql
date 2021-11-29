@@ -1,0 +1,1 @@
+UPDATE curso SET cupo = 25

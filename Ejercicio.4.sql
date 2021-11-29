@@ -1,0 +1,1 @@
+insert into curso ( description, turn, cupo) values ('Prueba insertar sin nombre','Tarde',30 )
